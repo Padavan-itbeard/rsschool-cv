@@ -99,6 +99,20 @@ A multi-trading platform enabling operations across seven major cryptocurrency e
 
 **Technology Stack:** React, Redux, Thunk, SCSS, WebPack, Node.js, Express, NGinx, PostgreSQL.  
 
+# Education
+**2007**  
+**Udmurt State University**, Izhevsk  
+**Degree:** Economics, Financial Management  
+
+**2001**  
+**Izhevsk State Technical University named after M.T. Kalashnikov**, Izhevsk  
+**Degree:** Software Engineering for Computing Systems and Automated Systems (Programs, Software Suites, and Systems), System Programmer (Programmer)  
+
+**1998**  
+**Sarapul College of Radioelectronic Instrument Engineering**, Sarapul  
+**Degree:** Radio Engineering, Radio Technician  
+# English
+A1 I try to learn English in every possible way.
 
 
 
