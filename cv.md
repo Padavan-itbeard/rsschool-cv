@@ -6,6 +6,22 @@
 - E-mail: [alexandr.ivanov.1024@gmail.com](alexandr.ivanov.1024@gmail.com)
 - GitHub: [Padavan-itbeard](https://github.com/Padavan-itbeard)
 # About Me
+I have extensive experience working in various roles within software development. My core strength lies in solving diverse challenges, ranging from refactoring legacy code into modern solutions to exploring and implementing innovative approaches for complex problems. I thrive in environments that demand both technical expertise and creativity to deliver impactful results.  
+
+
+# Skills
+- JavaScript
+- TypeScript  
+- React  
+- Redux  
+- React Query  
+- HTML5  
+- Bootstrap 
+- Redux Toolkit (RTK)  
+- Webpack  
+- Git  
+- Node.js  
+- REST API 
 # Code Example
 [Ninja vs Samurai: Attack + Block](https://www.codewars.com/kata/517b2bcf8557c200b8000015)
 ```
