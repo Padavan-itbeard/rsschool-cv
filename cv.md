@@ -5,6 +5,7 @@
 - Phone: +8 912 766 47 01
 - E-mail: [alexandr.ivanov.1024@gmail.com](alexandr.ivanov.1024@gmail.com)
 - GitHub: [Padavan-itbeard](https://github.com/Padavan-itbeard)
+
 # About Me
 I have extensive experience working in various roles within software development. My core strength lies in solving diverse challenges, ranging from refactoring legacy code into modern solutions to exploring and implementing innovative approaches for complex problems. I thrive in environments that demand both technical expertise and creativity to deliver impactful results.  
 
